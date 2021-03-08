@@ -10,7 +10,7 @@ namespace WebGentle.Bookstore.Controllers
     {
         public string Index()
         {
-            return "First index Methid";
+            return "First index  Test Method";
         }
     }
 
