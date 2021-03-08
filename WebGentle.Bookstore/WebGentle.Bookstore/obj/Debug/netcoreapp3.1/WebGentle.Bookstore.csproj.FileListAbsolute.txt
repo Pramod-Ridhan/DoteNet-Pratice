@@ -1,0 +1,16 @@
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\bin\Debug\netcoreapp3.1\WebGentle.Bookstore.exe
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\bin\Debug\netcoreapp3.1\WebGentle.Bookstore.deps.json
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\bin\Debug\netcoreapp3.1\WebGentle.Bookstore.runtimeconfig.json
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\bin\Debug\netcoreapp3.1\WebGentle.Bookstore.runtimeconfig.dev.json
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\bin\Debug\netcoreapp3.1\WebGentle.Bookstore.dll
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\bin\Debug\netcoreapp3.1\WebGentle.Bookstore.pdb
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\obj\Debug\netcoreapp3.1\WebGentle.Bookstore.csprojAssemblyReference.cache
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\obj\Debug\netcoreapp3.1\WebGentle.Bookstore.AssemblyInfoInputs.cache
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\obj\Debug\netcoreapp3.1\WebGentle.Bookstore.AssemblyInfo.cs
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\obj\Debug\netcoreapp3.1\WebGentle.Bookstore.csproj.CoreCompileInputs.cache
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\obj\Debug\netcoreapp3.1\WebGentle.Bookstore.MvcApplicationPartsAssemblyInfo.cache
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\obj\Debug\netcoreapp3.1\WebGentle.Bookstore.RazorTargetAssemblyInfo.cache
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\obj\Debug\netcoreapp3.1\WebGentle.Bookstore.dll
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\obj\Debug\netcoreapp3.1\WebGentle.Bookstore.pdb
+F:\Study\DoteNetCore\WebGentle.Bookstore\WebGentle.Bookstore\obj\Debug\netcoreapp3.1\WebGentle.Bookstore.genruntimeconfig.cache
